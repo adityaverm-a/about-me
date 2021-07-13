@@ -6,5 +6,5 @@ This is my version of the website, that I was taught by Dr. Angela Yu from her [
 
 It was a really fun experience, little did I know that I'm going to love Web-Development and pursue it as a Career option.
 
-Here's the live deployed version of it:[Live Preview](https://adityaverm-a.github.io/about-me/)
+Here's the live deployed version of it: [Live Preview](https://adityaverm-a.github.io/about-me/)
 
